@@ -605,7 +605,7 @@ SPEA satisface todos los elementos exigidos: deriva n=800 con la fórmula de Coc
 - "La simulación Monte Carlo bietápica completa del diseño propuesto (...) ajuste por no-respuesta y postestratificación sobre cuatro dimensiones) aplicada a la variable de discapacidad arrojó un DEFF empírico de 1,355 con intervalo de confianza Monte Carlo al 95 % de [1,20; 1,54]." (pág. 134)
 - "El DEFF obtenido por este método resulta ser una estimación complementaria: captura el efecto de conglomeración por UPM segmentada mediante la fórmula DEFF = 1 + (m̄ − 1) · ρ (...) Con ρ = 0,0263, el DEFF derivado es 1,237." (pág. 136)
 - "La cifra declarada es e ≤ 4,03 % nacional al 95 % de confianza, con p = 0,5 y DEFF = 1,355 validado por Monte Carlo bietápica completa. La cifra cumple y supera el máximo permitido por el DNP (7 %) en aproximadamente 42 %." (pág. 136); Tabla 3.1.4-4 de sensibilidad DEFF∈{1,2;1,5;1,8;2,0;2,5} por estrato y nacional (pág. 137)
-- Bibliografía citada por SPEA en este punto: Cochran (1999, Caps. 4.6, 9.4, 11.20); Lohr (2021, Caps. 3.4, 7.4, 9.2, 9.4); Kish (1965); Gutiérrez (2016, Cap. 8.1.1); Pollán et al. (2020); Shao y Tu (2012); Frankel (1971).
+- Bibliografía citada por SPEA en este punto: Cochran (1999, Caps. 4.6, 9.4, 11.20); Lohr (2021, Caps. 3.4, 7.4, 9.2, 9.4); Kish (1965); Gutiérrez (2016, Cap. 8.1.1); Pollán et al. (2020); Frankel (1971).
 
 ## Comparación con ISEGORÍA
 - Puntaje ISEGORÍA en el criterio equivalente: 1,00 / 2,00 (eval págs. 245–246)
